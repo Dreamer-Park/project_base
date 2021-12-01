@@ -1,0 +1,9 @@
+.main-content {
+    flex: 1;
+}
+
+footer {
+    height: 60px;
+    background: #333;
+    color: #fff;
+}
