@@ -1,0 +1,4 @@
+{
+    "python.pythonPath":"${workspaceFolder}/venv/bin/python",
+    "python.defaultInterpreterPath":"${env:/Users/john/work/github/project_base/venv/bin/python}"
+}
